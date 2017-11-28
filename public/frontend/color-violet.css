@@ -1,0 +1,29 @@
+body,.packages{
+    background: #342173 !important;;
+}
+.sticky-navigation{
+    top:0 !important;
+    background:#04001c;
+}
+.features,
+.deep-dark-bg{
+    background: #100531 !important;
+}
+
+#feedbacks{
+    margin-top: 15px;
+}
+.screenshots .shot{
+    background: #fff;
+}
+.color-overlay {
+    background: rgba(0, 0, 0, 0.81);
+}
+footer .contact-box .expanded-contact-form .textarea-box,
+footer .contact-box .expanded-contact-form .input-box{
+    background: #fff;
+    border: 1px solid #fff;
+}
+footer .social-icons {
+    border-bottom: 1px solid rgba(255, 255, 255, 0.28);
+}
